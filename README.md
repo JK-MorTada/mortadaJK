@@ -6,7 +6,7 @@
 ### أهلاً، Jk-MorTada 👋
 ### مبرمج Flutter | Flutter Developer
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=Jk-MorTada&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/Murtadha-grey?style=flat&logo=telegram)](https://t.me/mo4tada) <br>
 
 </div>
@@ -17,6 +17,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -34,7 +36,7 @@ class About extends Murtadha {
   const myInfo = {
     "Name" : "مرتضى محمد",
     "Role" : "Flutter Developer",
-    "ProgramingLanguages" : { "Dart", "Javascript" },
+    "ProgramingLanguages" : { "Dart", "Javascript", "C++", "Python" },
     "Framework" : { "Flutter" },
     "Database" : { "Firebase", "Sqlite" },
     "OtherTools" : { "Git", "VSCode", "Figma" },
@@ -50,7 +52,7 @@ class About extends Murtadha {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Jk-MorTada">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
