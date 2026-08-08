@@ -15,16 +15,15 @@
 
 <hr>
 
-### 🧑‍💻 من أنا
+### 🧑‍💻 About Me
 
-مبرمج **Flutter** متخصص ببناء تطبيقات موبايل احترافية عبر منصات متعددة (iOS & Android) بأداء عالي وتصميم أنيق. أهتم بكتابة كود نظيف وقابل للصيانة، وأحب استكشاف تقنيات جديدة باستمرار.
+Flutter Developer specializing in building high-performance, cross-platform mobile apps for iOS & Android with clean, elegant design. I care about writing clean, maintainable code and I'm always exploring new technologies.
 
-- 🚀 &nbsp; أشتغل حالياً على تطوير تطبيقات **Flutter** احترافية.
-- 🔥 &nbsp; خبرة بربط التطبيقات مع **Firebase** (Auth, Firestore, Storage, Cloud Functions).
-- 🧩 &nbsp; أستخدم **Dart** و **C++** و **Python** في مشاريعي وحل المشاكل البرمجية.
-- 🌱 &nbsp; أتعلم حالياً **Frappe**.
-- 💬 &nbsp; اسألني عن أي شي متعلق بـ **Flutter وبرمجة التطبيقات**.
-- 📩 &nbsp; تواصل معي عبر تلغرام: **[مرتضى محمد](https://t.me/mo4tada)**
+- 🚀 &nbsp; Currently working on building professional **Flutter** apps.
+- 🔥 &nbsp; Experienced in integrating apps with **Firebase** (Auth, Firestore, Storage, Cloud Functions).
+- 🧩 &nbsp; I use **Dart**, **C++**, and **Python** in my projects and problem solving.
+- 💬 &nbsp; Ask me anything about **Flutter and app development**.
+- 📩 &nbsp; Reach me on Telegram: **[Murtadha Muhammad](https://t.me/mo4tada)**
 
 <hr>
 
